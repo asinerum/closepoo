@@ -6,6 +6,19 @@ We don't use OpenClaw, because we have ClosePoo, a simple-as-poo AI Agent that m
 
 Python 3.10 with Pip 25.0.0 fresh installed and added to PATH
 
+## Get Your Gemini API Key
+- Visit Google AI Studio, sign in with your Google account
+- Click **Create API key** button to create new Gemini API key
+
+## Get Your Telegram User ID
+- Open the Telegram app and search for **@RawDataBot**
+- Start the chat and send command **/myid** to get your Telegram ID
+
+## Get Your Telegram Bot Token
+- Open the Telegram app and search for **@BotFather**
+- Start the chat and send command **/newbot** to create a new Telegram bot
+- Follow the prompts to get the bot's token
+
 ## Clone Poo Repo with Simplest Samples
 
 ```bash
