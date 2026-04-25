@@ -61,10 +61,16 @@ setup_skills("https://github.com/googleworkspace/cli.git")
 
 Copy only needed skills into subfolder named ./skills_cache/skills/
 
-## Start Web Chatbot
+## Start Streamlit Web Chatbot
 
 ```bash
 streamlit run webchat.py
+```
+
+## Start Gradio Web Daemon
+
+```bash
+python grachat.py
 ```
 
 ## Start Telegram Chatbot
